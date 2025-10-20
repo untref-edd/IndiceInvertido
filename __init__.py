@@ -5,6 +5,6 @@ Este paquete contiene implementaciones de algoritmos para construcción
 y manipulación de índices invertidos.
 """
 
-from .ii import BSBI
+from .indexar import BSBI
 
-__all__ = ['BSBI']
+__all__ = ["BSBI"]
