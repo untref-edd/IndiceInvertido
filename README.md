@@ -63,5 +63,4 @@ ii/
 
 ## Notas
 
-- Si modificas el corpus, vuelve a ejecutar `busquedas.py` para reconstruir el índice.
-- Para integrarlo en Jupyter Book, consulta el capítulo `3-9-indices-invertidos.md`, que utiliza `literalinclude` para explicar `ii.py` función por función.
+- Si se modifica el corpus entonces hay que ejecutar nuevamente `ii.py` para reconstruir el índice.
